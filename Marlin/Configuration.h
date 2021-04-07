@@ -1514,9 +1514,9 @@
 #define PREHEAT_1_TEMP_BED     40
 #define PREHEAT_1_FAN_SPEED     0 // Value from 0 to 255
 
-#define PREHEAT_2_LABEL       "PLA50"
+#define PREHEAT_2_LABEL       "PLA65"
 #define PREHEAT_2_TEMP_HOTEND 215
-#define PREHEAT_2_TEMP_BED    50
+#define PREHEAT_2_TEMP_BED    65
 #define PREHEAT_2_FAN_SPEED     0 // Value from 0 to 255
 
 /**
